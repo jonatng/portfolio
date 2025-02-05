@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 Jonathan Nguyen's Portfolio
