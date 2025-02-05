@@ -6,7 +6,9 @@
     <title>Jonathan E. Nguyen</title>
     <style>
         body {
-            background: linear-gradient(to right, #4299e1, #805ad5);
+            background: url('your-background-image.jpg'), linear-gradient(to right, #4299e1, #805ad5);
+            background-size: cover;
+            background-blend-mode: overlay;
             font-family: Arial, sans-serif;
             text-align: center;
             color: white;
@@ -17,15 +19,15 @@
             margin: auto;
         }
         .profile-img {
-            width: 128px;
-            height: 128px;
+            width: 150px;
+            height: 150px;
             border-radius: 50%;
             border: 4px solid white;
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
             margin-bottom: 20px;
         }
         .card {
-            background: white;
+            background: linear-gradient(to bottom, white, #f7f7f7);
             color: black;
             padding: 20px;
             margin: 10px;
@@ -41,15 +43,20 @@
             border-radius: 5px;
             text-decoration: none;
             font-size: 16px;
+            transition: 0.3s;
         }
         .github { background: #1f2937; }
         .linkedin { background: #0077b5; }
         .contact { background: #e53e3e; }
+        .button:hover {
+            opacity: 0.8;
+            transform: scale(1.05);
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <img src="https://github.com/jonatng/portfolio/images/headshot.png" alt="Profile" class="profile-img">
+        <img src="https://github.com/jonatng/images/headshot.png" alt="Profile" class="profile-img">
         <h1>Jonathan E. Nguyen</h1>
         <p>Software Engineer | Test Engineer</p>
         
