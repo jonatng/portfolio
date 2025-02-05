@@ -13,7 +13,7 @@ export default function Portfolio() {
         className="max-w-3xl w-full text-center"
       >
         <img 
-          src="/profile.jpg" 
+          src="/jonatng/portfolio/images/headshot.png" 
           alt="Profile" 
           className="w-32 h-32 rounded-full mx-auto mb-4 border-4 border-white shadow-lg"
         />
