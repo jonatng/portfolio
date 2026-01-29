@@ -10,10 +10,13 @@ Visit the live portfolio at: [jonatng.github.io/portfolio](https://jonatng.githu
 ## 📋 Featured Projects
 
 ### Applications in Production
-- **[AI Chatbot](https://jonatng.github.io/recruitChatBot)** - A smart chatbot using NLP for recruitment assistance
-- **[LLM Inventory Management App](https://genai-csv.streamlit.app/)** - AI-powered inventory management system
-- **[AI Research Summarizer](https://research-deck.streamlit.app/)** - AI-powered research paper summarization tool
-- **[Assisted Living App](https://devpost.com/software/caregiver-ucdwz6)** - LLM application for tracking and monitoring senior care
+- **[GEOx](https://geox.space/login)** - The primary satellite tracking and visualization platform. An enterprise-grade system for satellite catalog management, 3D orbit visualization, and tactical situational awareness.
+- **[Laneta AI](https://laneta-ai-influence.lovable.app/)** - AI-driven brand/influencer campaign platform.
+- **[Zay](https://zay.xyz/)** - Mobile survey app that pays for your opinion.
+- **[Assisted Living App](https://devpost.com/software/caregiver-ucdwz6)** - LLM application for tracking and monitoring senior care.
+
+### Published Papers
+- **[Automated 3D Wound Segmentation Using UV-based Feature Extraction and Deep Learning](IEEE-3D_Synthetic_Wound_segmentation.pdf)** - Research paper on 3D wound segmentation using deep learning.
 
 ## 🛠️ Technologies Used
 - HTML5 & CSS3
