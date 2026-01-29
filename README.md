@@ -13,6 +13,8 @@ Visit the live portfolio at: [jonatng.github.io/portfolio](https://jonatng.githu
 - **[GEOx](https://geox.space/login)** - The primary satellite tracking and visualization platform. An enterprise-grade system for satellite catalog management, 3D orbit visualization, and tactical situational awareness.
 - **[Laneta AI](https://laneta-ai-influence.lovable.app/)** - AI-driven brand/influencer campaign platform.
 - **[Zay](https://zay.xyz/)** - Mobile survey app that pays for your opinion.
+
+### Hackathons
 - **[Assisted Living App](https://devpost.com/software/caregiver-ucdwz6)** - LLM application for tracking and monitoring senior care.
 
 ### Published Papers
